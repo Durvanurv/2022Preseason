@@ -1,4 +1,4 @@
-# 2022Preseason
+# 2022 Preseason
 
 This repository will let you practice pushing and pulling and allow us to guage your skill in programming. You have two tasks:
 
